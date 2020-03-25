@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://i0.wp.com/wallpapers.ae/wp-content/uploads/2015/12/Artwork-portfolio-vector-3d-background-image.jpg?resize=1920%2C1080&ssl=1");
+     
+     
+   }
+   #logo{
+    margin-right: 30%;
+  }
+  
+  .navbar {
+    background: none;
+  }
+#link{
+ margin-left: 100%; 
+ border-bottom: 1px solid black;
+ 
+}
+
+.nav-link{
+  color: #113040;
+  font-size: 25px
+
+}
+.navbar-brand{
+  margin-left: 8.3%;
+}
+.jumbotron-fluid {
+    background-image:url("https://media.giphy.com/media/26BROFLJSFhP0cMGk/giphy.gif");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+
+  }
+
+  .jumbotron-special {
+    background-image:url("https://media.giphy.com/media/39xApN4bW6ygdrvBM3/giphy.gif");
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+}
+
+    .jumbotron-special1  {
+        background-image:url("https://media.giphy.com/media/l4FGHzb9sBnQmYjyU/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special2  {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special3 {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
+    .jumbotron-special4  {
+        background-image:url("https://media.giphy.com/media/14ko1wkUS2thu/giphy.gif");
+        background-size: cover;
+        color:whitesmoke;
+    text-align: center; }
+
